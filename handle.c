@@ -1,6 +1,3 @@
-lines (48 sloc)  1.45 KB
- 
-
 #include "main.h"
 /**
  * handle_print - Prints an argument based on its type
